@@ -1,5 +1,5 @@
 # market_basket_analysis
-Data Analysis- Data Visualization- Python
+Data Analysis - Data Visualization - Python
 # Table of contents
 1. Introduction
 2. Tools
@@ -7,5 +7,5 @@ Data Analysis- Data Visualization- Python
 4. Results
 # Introduction
 # Understanding Market Basket Analysis
-   Market basket analysis is data mining technique used by retailers and online shopping platforms to increase sales by better understanding customer purchasing patterns.
+Market basket analysis is a data mining technique used by retailers and online shopping platforms to increase sales by better understanding customer purchasing patterns.
    
