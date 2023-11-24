@@ -7,7 +7,7 @@ Data Analysis - Data Visualization - Python
 4. Results
 # Introduction
 # Understanding Market Basket Analysis
-Market basket analysis is a data mining technique retailers use to increase sales by better understanding customer purchasing patterns. It involves analyzing large data sets, such as purchase history, to reveal product groupings and products likely to be purchased together. This application of data science in marketing plays a pivotal role in enhancing company revenues and fostering business expansions.Here is a [dataset](https://github.com/TheDamiofLagos/FLiT-Data-Science-Mentorship-Projects/blob/main/Project%201%20-%20Market%20Basket%20Analysis/Market%20Basket%20Analysis%20-%20Groceries_dataset.csv)
+Market basket analysis is a data mining technique retailers use to increase sales by better understanding customer purchasing patterns. It involves analyzing large data sets, such as purchase history, to reveal product groupings and products likely to be purchased together. This application of data science in marketing plays a pivotal role in enhancing company revenues and fostering business expansions.Here is the [dataset](https://github.com/TheDamiofLagos/FLiT-Data-Science-Mentorship-Projects/blob/main/Project%201%20-%20Market%20Basket%20Analysis/Market%20Basket%20Analysis%20-%20Groceries_dataset.csv)
 # Tools
 . Data Analysis Tools:Python(using libraries like Pandas,Numpy)
 . Data Visualization Tools:Matplotlib, Seaborn
