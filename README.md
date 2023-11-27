@@ -35,7 +35,7 @@ This project will help sales and marketing teams understand customer behavior an
 - Step 4: Applying Apriori Algorithm
 - Step 5: Creating visual representations of the data to gain deeper insights
 
-Here is the Jupyter notebook showcasing the project, entirely implemented in Python.
+Here is the [Jupyter notebook](https://github.com/LovethFelix/market_basket_analysis/blob/main/Utiva%20Flit%20project%201.ipynb) showcasing the project, entirely implemented in Python.
 
 
 
