@@ -1,4 +1,6 @@
 # Market Basket Analysis
+FLIT Data Science Project
+
 Data Analysis - Data Visualization - Python
 
 # Table of contents
