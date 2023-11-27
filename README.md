@@ -33,6 +33,8 @@ This project will help sales and marketing teams understand customer behavior an
 - Step 4: Applying Apriori Algorithm
 - Step 5: Creating visual representations of the data to gain deeper insights
 
+Here is the Jupyter notebook showcasing the project, entirely implemented in Python.
+
 
 
 
